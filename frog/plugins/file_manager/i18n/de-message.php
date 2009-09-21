@@ -1,10 +1,14 @@
 <?php
 
-    /**
-     * Translated by: Peter Gassner <peter@naehrstoff.ch>
-     * Plugin       : file_manager
-     * Frog version : 0.9.5
-     */
+/**
+ * German language file for plugin file_manager
+ *
+ * @package frog
+ * @subpackage plugin.file_manager.translations
+ *
+ * @author Peter Gassner <peter@naehrstoff.ch>
+ * @version Frog 0.9.5
+ */
 
     return array(
     	'Action' => 'Aktion',

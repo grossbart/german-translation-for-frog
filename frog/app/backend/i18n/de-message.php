@@ -1,8 +1,13 @@
 <?php
 
     /**
-     * Translated by: Peter Gassner <peter@naehrstoff.ch>
-     * Frog version : 0.9.5
+     * German language file
+     *
+     * @package frog
+     * @subpackage translations
+     *
+     * @author Peter Gassner <peter@naehrstoff.ch>
+     * @version Frog 0.9.5
      */
 
     return array(
